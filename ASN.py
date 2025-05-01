@@ -9,7 +9,7 @@ import math
 
 # Fungsi utama
 def main():
-    st.title("ANALISIS SINYAL ECG DAN PERNAPASAN")
+    st.title("ANALISIS SINYAL HEART RATE VARIABILITY (HRV)")
     st.sidebar.header("Pengaturan Parameter")
     
     # Upload file
